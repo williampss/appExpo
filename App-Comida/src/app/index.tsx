@@ -68,14 +68,14 @@ const styles = StylesSheet.create({
   
   title:{
     fontSize: 20,
-    marginTop: 28,
+    marginTop: 28
   },
   
   input:{
     borderBottonWidth: 1,
     height: 40,
     marginBottom: 8,
-    fontSize: 16,
+    fontSize: 16
   },
 
   button:{
